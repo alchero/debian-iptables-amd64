@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/debian-iptables-amd64:v11.0.0
+FROM k8s.gcr.io/debian-iptables-amd64:v11.0
 MAINTAINER alchero
